@@ -2,8 +2,6 @@
 
 Bu araç, Google Gemini API'sini kullanarak, doğal dil ile yazılmış proje fikirlerini tam teşekküllü, çalışmaya hazır web projelerine dönüştüren bir PHP tabanlı bir servistir. Basit bir fikri saniyeler içinde HTML, CSS, JS ve PHP dosyalarından oluşan bir proje yapısına çevirebilirsiniz.
 
-![Proje Arayüzü](https://i.imgur.com/uG5e6sW.png)
-
 ## 🚀 Temel Özellikler
 
 - **Metinden Koda Çeviri:** "Blog sitesi yap" gibi basit bir komutu alıp, ilgili tüm dosyaları ve kodları üretir.
