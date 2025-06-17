@@ -63,3 +63,6 @@ Bu servisi kendi yerel veya uzak sunucunuzda çalıştırmak için aşağıdaki 
 ## 📜 Lisans
 
 Bu proje GNU Genel Kamu Lisansı (GPLv3) altında lisanslanmıştır.
+
+🔔 KANALIMA ABONE OL:
+https://www.youtube.com/@YucelKahramanYT?sub_confirmation=1
