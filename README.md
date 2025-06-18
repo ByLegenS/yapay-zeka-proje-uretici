@@ -46,7 +46,7 @@ Bu servisi kendi yerel veya uzak sunucunuzda çalıştırmak için aşağıdaki 
 
 1.  **Arayüzü Açın:**
     Tarayıcınızdan projenin bulunduğu dizindeki `index.php` dosyasını açın.
-    (Örn: `http://localhost/ai-project-generator/index.php`)
+    (Örn: `http://localhost/yapay-zeka-proje-uretici/index.php`)
 
 2.  **Fikrinizi Girin:**
     "Proje Tanımı" alanına oluşturmak istediğiniz projenin tanımını girin.
